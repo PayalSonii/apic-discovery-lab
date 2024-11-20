@@ -6,7 +6,7 @@ env:
   API_HOST: us-east-a.apiconnect.automation.ibm.com
   PROVIDER_ORG: IBM-LAB
   API_FILES: APIfolder/photos.yaml
-  PLATFORM_API_PREFIX: api-manage-1c92b52e-api-manager-tech-jam-apic
+  PLATFORM_API_PREFIX: api-manage-1c92b52e-platform-api-tech-jam-apic
   INSECURE_SKIP_TLS_VERIFY: true
   #API_FILES: APIfolder/photos.yaml
   #API_FILES: APIfolder/coffee-store.yaml
